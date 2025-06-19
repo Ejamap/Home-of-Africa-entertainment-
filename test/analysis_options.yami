@@ -1,0 +1,6 @@
+Yami
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true

@@ -1,0 +1,22 @@
+name: ejam_film_empire
+description: The Cluster of African Movies - EJAM Film Empire app.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  youtube_player_flutter: ^8.1.1
+  google_mobile_ads: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
